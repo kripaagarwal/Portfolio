@@ -16,7 +16,7 @@ export function Education() {
           >
             <strong>{edu.title}</strong>
             <span>
-              {edu.institution} · {edu.period}
+              {edu.institution} · {edu.period} · {edu.grade}
             </span>
           </div>
         ))}

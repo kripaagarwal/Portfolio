@@ -17,14 +17,6 @@ export function ContactFooter() {
         </div>
         <div className="footer-cta reveal reveal-delay-2">
           <a
-            className="btn btn-primary"
-            href={portfolioUrl}
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            View full portfolio
-          </a>
-          <a
             className="btn btn-outline"
             href={resumeUrl}
             download={`${name.replace(" ", "-")}-Resume.pdf`}

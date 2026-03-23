@@ -40,36 +40,26 @@ body {
 .bg-animation .gradient-shift {
   position: absolute;
   inset: -50%;
-  background: radial-gradient(
-      ellipse 80% 50% at 20% 40%,
+  background: radial-gradient(ellipse 80% 50% at 20% 40%,
       rgba(0, 201, 167, 0.12) 0%,
-      transparent 50%
-    ),
-    radial-gradient(
-      ellipse 60% 80% at 80% 60%,
+      transparent 50%),
+    radial-gradient(ellipse 60% 80% at 80% 60%,
       rgba(88, 28, 135, 0.08) 0%,
-      transparent 50%
-    ),
-    radial-gradient(
-      ellipse 50% 50% at 50% 90%,
+      transparent 50%),
+    radial-gradient(ellipse 50% 50% at 50% 90%,
       rgba(0, 150, 199, 0.06) 0%,
-      transparent 45%
-    );
+      transparent 45%);
   animation: gradientMove 18s ease-in-out infinite;
 }
 
 .bg-animation .grid-overlay {
   position: absolute;
   inset: 0;
-  background-image: linear-gradient(
+  background-image: linear-gradient(rgba(0, 201, 167, 0.03) 1px,
+      transparent 1px),
+    linear-gradient(90deg,
       rgba(0, 201, 167, 0.03) 1px,
-      transparent 1px
-    ),
-    linear-gradient(
-      90deg,
-      rgba(0, 201, 167, 0.03) 1px,
-      transparent 1px
-    );
+      transparent 1px);
   background-size: 64px 64px;
   animation: gridPulse 12s ease-in-out infinite;
 }
@@ -121,6 +111,7 @@ body {
 }
 
 @keyframes gradientMove {
+
   0%,
   100% {
     transform: scale(1) rotate(0deg);
@@ -139,6 +130,7 @@ body {
 }
 
 @keyframes gridPulse {
+
   0%,
   100% {
     opacity: 0.6;
@@ -150,6 +142,7 @@ body {
 }
 
 @keyframes float1 {
+
   0%,
   100% {
     transform: translate(0, 0) scale(1);
@@ -169,6 +162,7 @@ body {
 }
 
 @keyframes float2 {
+
   0%,
   100% {
     transform: translate(0, 0) scale(1);
@@ -184,6 +178,7 @@ body {
 }
 
 @keyframes float3 {
+
   0%,
   100% {
     transform: translate(-50%, -50%) scale(1);
@@ -195,6 +190,7 @@ body {
 }
 
 @keyframes float4 {
+
   0%,
   100% {
     transform: translate(0, 0);
@@ -511,6 +507,7 @@ header::before {
 .btn-primary:hover {
   transform: translateY(-2px);
   box-shadow: 0 8px 24px rgba(0, 201, 167, 0.35);
+  color: var(--text);
 }
 
 .btn-outline {
@@ -551,6 +548,7 @@ header::before {
 }
 
 @keyframes glowPulse {
+
   0%,
   100% {
     opacity: 0.4;
@@ -588,6 +586,7 @@ header::before {
 }
 
 @media (prefers-reduced-motion: reduce) {
+
   .hero .hero-badge,
   .hero h1,
   .hero .tagline,
@@ -821,4 +820,3 @@ footer p {
   font-size: 0.85rem;
   color: var(--text-muted);
 }
-

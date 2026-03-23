@@ -4,7 +4,7 @@
   "location": "Kolkata, India",
   "email": "kripaagarwal26@gmail.com",
   "phone": "+91 8439256841",
-  "portfolioUrl": "https://www.canva.com/design/DAHBv8dSlwQ/NpKtLhGfwSLcOCvQfoNHqA/view?utm_content=DAHBv8dSlwQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h19aa335cff",
+  "portfolioUrl": "https://kripa-portfolio-alpha.vercel.app",
   "resumeUrl": "Resume%20Updated%202026%20(2).pdf",
   "about": {
     "heading": "What I do",
@@ -13,10 +13,12 @@
   "expertise": [
     "Software Development",
     "Responsive UI Design",
-    "Content Writing",
+    "Team Collaboration",
     "Communication",
     "Event Management",
-    "Leadership"
+    "Leadership",
+    "Good Learner",
+    "Flexible"
   ],
   "experience": [
     {
@@ -24,30 +26,21 @@
       "period": "Sept 2025 – Current",
       "location": "Kolkata, India",
       "bullets": [
-        "Generated 115,556 total views in the last 90 days, reaching 97,307 unique accounts",
-        "Managed 100% of content planning, posting, and day-to-day social media operations",
-        "Designed 100+ creatives including posters, reels, and promotional assets",
-        "Improved engagement and reach through regular analytics tracking and optimization",
-        "Planned and executed multiple offline events, stalls, and college activations",
-        "Progressed from freelance (Sept 2024) to full-time, in-office role (Oct 2025) based on performance"
+        "Developed and deployed a full‑stack application using React and ASP.NET Core with Entity Framework on Microsoft Azure.",
+        "Designed the application with a focus on scalability, maintainability, and automation of manual workflows.",
+        "Optimized database operations and backend logic to enhance overall application performance and stability.",
+        "Implemented secure REST APIs and supported reliable cloud deployment using Azure services and storage configurations.",
+        "Collaborated effectively within a team environment, demonstrating strong communication skills and contributing throughout the development lifecycle."
       ]
     },
     {
-      "company": "SoulaceSpace",
-      "period": "March – June 2025",
-      "location": "Gurgaon",
+      "company": "Aethlete",
+      "period": "July – September 2024",
+      "location": "Remote",
       "bullets": [
-        "Content creator for the clinic",
-        "Designed informational carousels, engaging memes, and educational reels centered around psychology"
-      ]
-    },
-    {
-      "company": "Club Arcadia, Shoolini University",
-      "period": "Oct 2022 – Sept 2024",
-      "location": "",
-      "bullets": [
-        "Head of Content Creation Team, later promoted to President",
-        "Introduced student-driven initiatives (events, competitions), engaging 300+ participants"
+        "Developed the foundational template for the company’s website with a focus on usability and visual consistency.",
+        "Implemented core website features to enhance functionality, performance, and overall user experience.",
+        "Collaborated with team members to ensure seamless integration, responsive design, and user‑friendly navigation."
       ]
     }
   ],
@@ -55,23 +48,26 @@
     {
       "title": "B. Tech. in Computer Science and Engineering",
       "institution": "Graphic Era Deemed to be University",
-      "period": "2021–2025"
+      "period": "2021–2025",
+      "grade": "8.4/10.0"
     },
     {
       "title": "Higher Secondary Schooling",
       "institution": "St. Mary's School, Najibabad, Uttar Pradesh",
-      "period": "2020-2021"
+      "period": "2020-2021",
+      "grade": "78%"
     },
     {
       "title": "Secondary Schooling",
       "institution": "St. Mary's School, Najibabad, Uttar Pradesh",
-      "period": "2018-2019"
+      "period": "2018-2019",
+      "grade": "78%"
     }
   ],
   "certifications": [
     "Basic Counselling Skills — Mindscape Centre for Counselling, New Delhi",
     "Introduction to Abnormal Psychology — Wesleyan University, Coursera",
-    "IAHP Paper Presentation Certificate (2023)"
+    "Azure AZ900 - Microsoft Azure Fundamentals"
   ],
   "footerTagline": "Kripa Agarwal — Software Engineer & Full Stack Developer"
 }

@@ -19,14 +19,6 @@ export function Hero() {
           </div>
           <div className="cta-row">
             <a
-              className="btn btn-primary"
-              href={portfolioUrl}
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              View Portfolio
-            </a>
-            <a
               className="btn btn-outline"
               href={resumeUrl}
               download={`${name.replace(" ", "-")}-Resume.pdf`}
