@@ -42,24 +42,6 @@
       ]
     },
     {
-      "company": "Pooja Counselling Services",
-      "period": "Nov 2024 – Feb 2025",
-      "location": "Himachal Pradesh",
-      "bullets": [
-        "Delivered 10+ online/offline sessions on key psychology topics to students and early professionals",
-        "Developed engaging lesson plans and simplified complex topics for better understanding"
-      ]
-    },
-    {
-      "company": "Psychologs Magazine",
-      "period": "Nov 2024 – Feb 2025",
-      "location": "Remote",
-      "bullets": [
-        "Authored 30+ articles on psychology and mental health",
-        "Coordinated with editorial team to maintain accuracy and readability of published work"
-      ]
-    },
-    {
       "company": "Club Arcadia, Shoolini University",
       "period": "Oct 2022 – Sept 2024",
       "location": "",
@@ -76,9 +58,14 @@
       "period": "2021–2025"
     },
     {
-      "title": "BA Psychology and Counselling",
-      "institution": "Shoolini University",
-      "period": "2022–2025 · OGPA 9.29/10"
+      "title": "Higher Secondary Schooling",
+      "institution": "St. Mary's School, Najibabad, Uttar Pradesh",
+      "period": "2020-2021"
+    },
+    {
+      "title": "Secondary Schooling",
+      "institution": "St. Mary's School, Najibabad, Uttar Pradesh",
+      "period": "2018-2019"
     }
   ],
   "certifications": [
@@ -88,4 +75,3 @@
   ],
   "footerTagline": "Kripa Agarwal — Software Engineer & Full Stack Developer"
 }
-
